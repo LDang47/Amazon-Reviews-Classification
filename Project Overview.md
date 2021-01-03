@@ -31,12 +31,19 @@ Where each review contains the following fields:
 •	asin - ID of the product, e.g. 0000013714
 
 •	reviewerName - name of the reviewer
+
 •	vote – number of helpful votes of the review
+
 •	label – a flag indicating if the review got at least one helpful vote
+
 •	reviewText - text of the review
+
 •	overall - rating of the product
+
 •	summary - summary of the review
+
 •	unixReviewTime - time of the review (unix time)
+
 •	reviewTime - time of the review (raw)
 
 Our dataset includes reviews of three different product categories: Books (books_5_small), Home and Kitchen (home_and_kitchen_5_small), and Video Games (video_games_5).
