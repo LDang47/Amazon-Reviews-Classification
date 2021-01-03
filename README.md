@@ -10,6 +10,7 @@ We have collected millions (Big Volume) of Amazon reviews (Big Variety and Big V
 { 
   "reviewID": "15632",   
   "reviewerID": "A2SUAM1J3GNN3B", 
+  
   "asin": "0000013714", 
   "reviewerName": "J. McDonald", 
   "vote": 5, 
