@@ -10,7 +10,6 @@ We have collected millions (Big Volume) of Amazon reviews (Big Variety and Big V
 { 
   "reviewID": "15632",   
   "reviewerID": "A2SUAM1J3GNN3B", 
-  
   "asin": "0000013714", 
   "reviewerName": "J. McDonald", 
   "vote": 5, 
@@ -26,8 +25,11 @@ We have collected millions (Big Volume) of Amazon reviews (Big Variety and Big V
 Where each review contains the following fields:
 
 •	reviewID – a unique ID of the review
+
 •	reviewerID - ID of the reviewer, e.g. A2SUAM1J3GNN3B
+
 •	asin - ID of the product, e.g. 0000013714
+
 •	reviewerName - name of the reviewer
 •	vote – number of helpful votes of the review
 •	label – a flag indicating if the review got at least one helpful vote
