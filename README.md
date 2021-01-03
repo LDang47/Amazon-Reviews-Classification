@@ -1,4 +1,4 @@
-# Amazon-Reviews-Classification
+# Amazon-Reviews-Classification_ PySpark on Databricks
 The Case
 
 Product reviews play a crucial role in the purchasing decision of a customer. Amazon.com, Inc. is one of the largest retailers in the history of the planet with revenues of USD 280 billion in 2019. Each year, customers leave millions of product reviews on the Amazon.com website. Understanding these reviews is crucial for Amazon. In this project, you will explore and model these customer reviews. 
