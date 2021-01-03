@@ -1,8 +1,12 @@
 # Amazon-Reviews-Classification
 The Case
+
 Product reviews play a crucial role in the purchasing decision of a customer. Amazon.com, Inc. is one of the largest retailers in the history of the planet with revenues of USD 280 billion in 2019. Each year, customers leave millions of product reviews on the Amazon.com website. Understanding these reviews is crucial for Amazon. In this project, you will explore and model these customer reviews. 
+
 The Data
+
 We have collected millions (Big Volume) of Amazon reviews (Big Variety and Big Veracity) from the past few years. An example review is:
+
 { 
   "reviewID": "15632",   
   "reviewerID": "A2SUAM1J3GNN3B", 
@@ -19,6 +23,7 @@ We have collected millions (Big Volume) of Amazon reviews (Big Variety and Big V
 
  
 Where each review contains the following fields:
+
 •	reviewID – a unique ID of the review
 •	reviewerID - ID of the reviewer, e.g. A2SUAM1J3GNN3B
 •	asin - ID of the product, e.g. 0000013714
